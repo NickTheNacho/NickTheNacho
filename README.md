@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickTheNacho
-- 👀 I’m interested in computational physics
-- 🌱 I’m currently learning the basics
+- 👀 I’m interested in theoretical physics
+- 🌱 I’m currently learning the basics of C++ and other languages
 - 💞️ I’m looking to collaborate on simulation projects
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
